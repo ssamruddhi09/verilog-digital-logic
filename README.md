@@ -1,4 +1,4 @@
-# 🧠 Digital Logic Design using Verilog  
+Digital Logic Design using Verilog  
 
 A growing collection of Verilog modules, testbenches, and waveform outputs.  
 Simulated using **Icarus Verilog** and **GTKWave**, and later expandable to **Vivado** for FPGA design.
