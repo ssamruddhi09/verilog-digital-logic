@@ -3,9 +3,7 @@ Digital Logic Design using Verilog
 A growing collection of Verilog modules, testbenches, and waveform outputs.  
 Simulated using **Icarus Verilog** and **GTKWave**, and later expandable to **Vivado** for FPGA design.
 
----
-
-## 🚀 Features
+Features
 - Basic logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR)
 - Universal gates
 - Combinational circuits (coming soon)
@@ -14,9 +12,7 @@ Simulated using **Icarus Verilog** and **GTKWave**, and later expandable to **Vi
 - Clean folder structure
 - Testbenches for every module
 
----
-
-## 🛠️ Tech Stack
+Tech Stack
 - **Language:** Verilog (HDL)
 - **Simulation:** Icarus Verilog (`iverilog`)
 - **Waveforms:** GTKWave
